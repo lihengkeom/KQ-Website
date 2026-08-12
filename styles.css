@@ -266,6 +266,7 @@ textarea:focus-visible {
   padding: 18px 16px 20px;
   display: flex;
   flex-direction: column;
+  text-align: center;
   gap: 6px;
   background: #ffffff;
 }
